@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-weight: bolder;
+    color: rgba(20, 20, 212, 0.514);
+    background-color: rgb(6, 126, 86);
+    font-size: 45px;
+}
+.large-text {
+    font-size: 25px;
+}
+p, h3 {
+    background-color: blueviolet;
+    color: black;
+}
+
+ul {
+    background-color: aqua;
+    color: black;
+}
+
+ol {
+    background-color: chartreuse;
+    color: crimson;
+}
+
+h2 {
+    font-weight: 900;
+    background-color: lightcoral;
+    color: silver;
+}
+
+h4 { 
+    background-color: black;
+    color: aliceblue;
+}
